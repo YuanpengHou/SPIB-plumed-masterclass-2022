@@ -10,3 +10,12 @@ ref1:
 ref2:
   location: https://pubs.acs.org/doi/abs/10.1021/acs.jctc.2c00058
   type: external
+ref3:
+  location: https://plumed-school.github.io/lessons/21/004/data/THEORY.html
+  type: external
+ref4:
+  location: http://proceedings.mlr.press/v84/tomczak18a/tomczak18a.pdf
+  type: external
+ref5:
+  location: https://pytorch.org/tutorials/beginner/introyt/introyt1_tutorial.html
+  type: external

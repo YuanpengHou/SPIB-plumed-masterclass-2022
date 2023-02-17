@@ -19,7 +19,7 @@ flowchart TB;
   E ==> F[notebook II];
   G[Metadynamics Theory] -.-> C
   C -.-> I
-  I[Using Pytorch] -.->D
+  I[Using PyTorch] -.->D
   B[ref2] -.-> E;
   H[Variational autoencoder Theory] -.-> C
     
